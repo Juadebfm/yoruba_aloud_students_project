@@ -9,19 +9,19 @@
 <h1 align="center">Yoruba Learning App Admin Dashboard</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Juadebfm/yoruba_aloud_students_project?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Juadebfm/yoruba_aloud_students_project?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Juadebfm/yoruba_aloud_students_project?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Juadebfm/yoruba_aloud_students_project?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/Juadebfm/yoruba_aloud_students_project?color=56BEB8" />
+  <img alt="Github issues" src="https://img.shields.io/github/issues/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8" />
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Juadebfm/yoruba_aloud_students_project?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8" /> -->
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/Juadebfm/yoruba_aloud_students_project?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/Juadebfm/yoruba_aloud_feb_cohort?color=56BEB8" />
 </p>
 
 Status
